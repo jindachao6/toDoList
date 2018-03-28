@@ -1,21 +1,4 @@
-# to-do-list
-
-> to do list
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+这是我第一个用vue.js写的小项目todolist，类似于滴答清单
+可以添加任务、删除任务、显示任务总数、设置任务为已完成
+并且可以根据不同任务的状态进行筛选
+最后可以清空已完成的任务
